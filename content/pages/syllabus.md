@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Basic probability at the level of an introductory graduate course, [_18.175 Theory of Probability_](/courses/18-175-theory-of-probability-spring-2014/) or equivalent. Useful background material can also be found in the online [Probability: Theory and Examples (PDF - 1.9MB)](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) notes by Rick Durrett at Duke University.
+Basic probability at the level of an introductory graduate course, [_18.175 Theory of Probability_](/courses/18-175-theory-of-probability-spring-2014) or equivalent. Useful background material can also be found in the online [Probability: Theory and Examples (PDF - 1.9MB)](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) notes by Rick Durrett at Duke University.
 
 Description
 -----------
